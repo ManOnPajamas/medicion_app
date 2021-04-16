@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/bk1.jpg</file>
+        <file>images/bk2.jpg</file>
+        <file>images/bk3.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/logo.svg</file>
+        <file>images/logo2.png</file>
+        <file>images/rbk3.jpg</file>
+        <file>images/rbk1.jpg</file>
+        <file>images/bk4b.jpeg</file>
+        <file>images/bk5b.jpeg</file>
+        <file>images/btnbk.png</file>
+        <file>images/graph_bg.png</file>
+        <file>images/date_bg.png</file>
+        <file>images/logo2_2.png</file>
+        <file>images/action_success.png</file>
+        <file>images/messagebox_critical.png</file>
+    </qresource>
+</RCC>
